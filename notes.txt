@@ -1,0 +1,32 @@
+/* ************************************************************************* */
+/* ***************************		    TO DO			******************** */
+/* ************************************************************************* */
+break pong logic apart
+
+Build space invaders part
+
+save high score in memory.
+
+Fix scoreboard reader
+Build internet connection timeout
+
+make music loop
+make music pause on lid close
+make music play on lid open
+Make sfx work
+
+
+/* ************************************************************************* */
+/* ***************************		    BUGS			******************** */
+/* ************************************************************************* */
+glitchy high score. Did I made a high score? Who made a high score?
+
+
+/* ************************************************************************* */
+/* ***************************		    IDEAS			******************** */
+/* ************************************************************************* */
+Space invaders
+Pacman/Frogger (Avoid Something)
+Balloon Pop
+Tetris
+Brain Age?

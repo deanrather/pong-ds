@@ -1,0 +1,22 @@
+[black screen with white text.]
+TOP SCREEN
+
+Pong MAX ®&© 2007.
+Game design by Dean Rather.
+Built with Eclipse and PAlib.
+Some rights reserved.
+
+Certain game elements originally designed
+and owned by Nintendo, Atari, Taito, Konami,
+Namco, or other important game developers.
+Made in Australia.
+
+
+BOTTOM SCREEN
+pong logo
+pongmax.deanrather.com
+
+[after 1 second, fade text so that the screen is black]
+[follow by dsx/comp screen]
+[follow by PALib screen]
+[follow by menu.]

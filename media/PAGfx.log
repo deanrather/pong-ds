@@ -1,0 +1,38 @@
+PAGfx Converter, by Mollusk     www.palib.com
+If you have suggestions, problems, or anything, please mail me at mollusk@palib.info
+
+Converting PAGfx.ini
+Transparent Color : Magenta
+
+3 sprites :
+  ball : 256colors, 16x16, Pal : ball_Pal, -> ball_Sprite
+  paddle_a : 256colors, 32x16, Pal : paddle_a_Pal, -> paddle_a_Sprite
+  paddle_b : 256colors, 32x16, Pal : paddle_b_Pal, -> paddle_b_Sprite
+
+7 backgrounds :
+  splash_pong : TileBg, 256x192, Pal : splash_pong_Pal, 121 tiles -> splash_pong_Tiles and splash_pong_Map
+  background_bottom : TileBg, 256x192, Pal : background_bottom_Pal, 768 tiles -> background_bottom_Tiles and background_bottom_Map
+  background_top : TileBg, 256x192, Pal : background_top_Pal, 768 tiles -> background_top_Tiles and background_top_Map
+  splash_comp2 : TileBg, 256x192, Pal : splash_comp2_Pal, 
+ Error : Palette splash_comp2 has more than 256 colors. Please use some different palettes or reduce your file's color depth
+Press any key to exit...
+749 tiles -> splash_comp2_Tiles and splash_comp2_Map
+  splash_comp : TileBg, 256x192, Pal : splash_comp_Pal, 711 tiles -> splash_comp_Tiles and splash_comp_Map
+  splash_eclipse : TileBg, 256x192, Pal : splash_eclipse_Pal, 750 tiles -> splash_eclipse_Tiles and splash_eclipse_Map
+  splash_palib : TileBg, 256x192, Pal : splash_palib_Pal, 309 tiles -> splash_palib_Tiles and splash_palib_Map
+
+10 palettes :
+  ball_Pal, 33 colors
+  paddle_a_Pal, 11 colors
+  paddle_b_Pal, 11 colors
+  splash_pong_Pal, 20 colors
+  background_bottom_Pal, 141 colors
+  background_top_Pal, 141 colors
+  splash_comp2_Pal, 256 colors
+  splash_comp_Pal, 223 colors
+  splash_eclipse_Pal, 219 colors
+  splash_palib_Pal, 190 colors
+
+Converted in 0 minutes 2 seconds
+
+Finished !
